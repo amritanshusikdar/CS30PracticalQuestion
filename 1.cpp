@@ -1,3 +1,12 @@
+/*
+
+    @Author: Amritanshu Sikdar
+    Session: 2018-'19
+    
+    Repository: https://github.com/amritanshusikdar/CS30PracticalQuestion
+
+*/
+
 //  Program to swap every even with following odd location of an integer array
 
 #include<iostream.h>
